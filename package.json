@@ -1,0 +1,17 @@
+{
+  "name": "google-identity-token-client",
+  "version": "0.1.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "google-auth-library": "^4.2.5",
+    "jsrsasign": "^8.0.12",
+    "request": "^2.88.0"
+  }
+}
