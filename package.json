@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "google-auth-library": "^4.2.5",
-    "jsrsasign": "^8.0.12",
+    "jsrsasign": "^8.0.19",
     "request": "^2.88.0"
   }
 }
